@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Noto+Sans+JP:wght@500&family=Roboto:wght@700&display=swap');
+.h1-garamond {
+    font-family: 'EB Garamond', serif;
+}
+.h1-noto-sans {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.h1-roboto {
+    font-family: 'Roboto', sans-serif;
+}
